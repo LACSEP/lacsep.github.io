@@ -18,14 +18,6 @@ This website is maintained by the [LACSEP Members](https://lacsep.github.io/lacs
 ## LACSEP
 LACSEP is the name of Prof. Dr. Rodrigo's research group. The acronym stands for Laboratory of Analysis and Control of Electrical Power Systems (Laboratório de Análise e Controle de Sistemas Elétricos de Potência, in portuguese). 
 
-<!-- **Click on** [LACSEP LAB](https://lacsep.github.io/lacsep-lab/) **to get to know more about the lab facility**<br><br>
-
-**Click on** [LACSEP RESEARCH](https://lacsep.github.io/lacsep-research/) **to get to know more about the lab research areas of interest**<br><br>
-
-**Click on** [LACSEP PUBLICATIONS](https://lacsep.github.io/lacsep-publications/) **to get to know more about the lab publications**<br><br>
-
-**Click on** [LACSEP MEMBERS](https://lacsep.github.io/lacsep-members/) **to get to know more about the lab members**<br><br> -->
-
 ## About Prof. Dr. Rodrigo Andrade Ramos
 Prof. Rodrigo Andrade Ramos received bachelor's (1997), master's (1999) and doctorate's (2002) degrees in Electrical Engineering from the São Carlos School of Engineering - University of São Paulo. He is currently an Associate Professor in the Department of Electrical Engineering at the São Carlos School of Engineering, on the São Carlos campus of the University of São Paulo. He has also served as a Visiting Professor at the University of New South Wales, Australia and as a Visiting Associate Professor at the University of Waterloo, Canada. Between 2014 and 2019 he was Associate Editor of the journal IEEE Transactions on Sustainable Energy and since 2020 he is Associate Editor of the journal IEEE Transactions on Smart Grid. Since 2013, he has been a member of the Administrative Committee of the Power System Dynamic Performance Committee of the IEEE Power & Energy Society (PES), having worked in the organization of the IEEE PES General Meeting from 2014 to 2016. He has experience in the area of Electrical Engineering, with emphasis on Electrical Power Systems and his main research topics are dynamic security analysis, analysis and control of angular and voltage stability, distributed generation, active distribution networks and microgrids. He also carries out review work for national and international journals and congresses and acts as an advisor to funding agencies, among which stand out FAPESP, CNPq, CAPES and CONICYT (Comisión Nacional de Investigación Científica y Tecnológica)-Chile .
 

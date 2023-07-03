@@ -1,6 +1,6 @@
 ---
 permalink: /lacsep-terms/
-title: "Terms and Privacy Policy"
+title: "LACSEP Terms and Privacy Policy"
 modified: 2016-06-06
 ---
 

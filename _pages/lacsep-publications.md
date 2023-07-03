@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "LACSEP Publications"
 permalink: /lacsep-publications/
 author_profile: true
 ---

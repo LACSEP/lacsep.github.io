@@ -21,7 +21,7 @@ redirect_from:
 
 ## Are you an undergrad or grad student at EESC-USP?
 
-## Are you at another university in Brazi or outside Brazil?
+## Are you at another university in Brazil or outside Brazil?
 
 ## About the Admission Process and Funding Support Schemes
 

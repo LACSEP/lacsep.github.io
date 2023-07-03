@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "LACSEP Lab"
+  - title: "Laboratory"
     url: /lacsep-lab/
 
   - title: "Research"
@@ -16,7 +16,10 @@ main:
     url: /lacsep-opportunities/
   
   - title: "Contact"
-    url: /lacsep-contact/   
+    url: /lacsep-contact/
+
+  - title: "Terms"
+    url: /lacsep-terms/   
 
   # - title: "Talks"
   #   url: /talks/    
