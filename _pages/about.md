@@ -13,14 +13,17 @@ This is the website of Prof. Dr. Rodrigo Andrade Ramos' research group and labor
 
 This website is maintained by the [LACSEP Members](https://lacsep.github.io/lacsep-members/).
 
-**If you are a student, and would like to enquire on available research opportunities, please see this page:** [Opportunities](https://lacsep.github.io/lacsep-opportunities/)
+**If you are a student, and would like to enquire on available research opportunities, please see this page:** [LACSEP Opportunities](https://lacsep.github.io/lacsep-opportunities/)
 
 ## LACSEP
 LACSEP is the name of Prof. Dr. Rodrigo's research group. The acronym stands for Laboratory of Analysis and Control of Electrical Power Systems (Laboratório de Análise e Controle de Sistemas Elétricos de Potência, in portuguese). 
 
 **Click on** [LACSEP LAB](https://lacsep.github.io/lacsep-lab/) **to get to know more about the lab facility**
+
 **Click on** [LACSEP RESEARCH](https://lacsep.github.io/lacsep-research/) **to get to know more about the lab research areas of interest**
+
 **Click on** [LACSEP PUBLICATIONS](https://lacsep.github.io/lacsep-publications/) **to get to know more about the lab publications**
+
 **Click on** [LACSEP MEMBERS](https://lacsep.github.io/lacsep-members/) **to get to know more about the lab members**
 
 ## About Prof. Dr. Rodrigo Andrade Ramos

@@ -82,8 +82,8 @@ author:
   bio              : "Prof. Dr. Rodrigo Andrade Ramos' research group and lab."
   location         : "São Carlos, SP, Brazil"
   employer         : "EESC-USP"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=bj6UbMcAAAAJ&hl=en&oi=ao"
   email            : "lacsep@eesc.usp.br"
   uri              :
   bitbucket        :
@@ -96,16 +96,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "rodrigo-ramos-23130436"
   orcid            : "https://orcid.org/0000-0002-2240-1150"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

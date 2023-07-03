@@ -24,8 +24,8 @@ and developing/supporting/using open source software and open access standards. 
 
 ---
 
-# Research Projects
-## Current Research Projects
+## Research Projects
+### Current Research Projects
 
 <!-- - (2020 - current) DOE-funded project "OpTEN": [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for Grid-interactive Efficient District (GED) Energy Systems](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/).
 
@@ -37,7 +37,7 @@ and developing/supporting/using open source software and open access standards. 
 
 To be updated, some may be missing... -->
 
-## Long Term Research Projects  
+### Long Term Research Projects  
 
 <!-- - The [OpenIPSL.org](http://openipsl.org) project works in the development of a Modelica library for power system dynamic modeling and simulation. It is the bases for my work on cyber-physical power system design and analysis methods. This project is a continuation of work started in 2012 in the use of the Modelica language for power systems.
   - See [OpenIPSL.org](http://openipsl.org) for members, results and documentation.
@@ -61,8 +61,8 @@ To be updated, some may be missing... -->
   - This project deals with the development of methods and prototype implementation of tools for power system model identification problems with a theoretical founding on system identification methods. Most of this work is in collaboration with Xavier Bombois, CNRS/ECL Lyon.
   - Currently un-funded. Contact me to support this project! -->
 
-## Past Research
-### Past Funded Research in the USA (Partial List, incomplete, ask for more details if interested)
+### Past Research
+#### Past Funded Research in the USA (Partial List, incomplete, ask for more details if interested)
 <!-- - (2019-2022) CHEETA: NASA ULI Center for Cryogenic High-Efficiency Electrical Technologies for Aircraft, website: [here](https://cheeta.illinois.edu/)
   - Funded by NASA University Leadership Initiative (ULI), see [here](https://nari.arc.nasa.gov/uliround2)
   - PI: [Prof. Phillip J. Ansell (UIUC)](https://aerospace.illinois.edu/directory/profile/ansell1)
