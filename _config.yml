@@ -82,7 +82,7 @@ author:
   bio              : "Prof. Dr. Rodrigo Andrade Ramos' research group and lab."
   location         : "São Carlos, SP, Brazil"
   employer         : "EESC-USP"
-  pubmed           : 
+  # pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bj6UbMcAAAAJ&hl=en&oi=ao"
   email            : "lacsep@eesc.usp.br"
   uri              :

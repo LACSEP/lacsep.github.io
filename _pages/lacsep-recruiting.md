@@ -5,6 +5,9 @@ excerpt: "Description of Currently Available Research Positions"
 author_profile: true
 ---
 
+## What am I looking for in a new students/researchers?
+* 
+
 ## Available Positions
 
 * **Undergrads:** 
@@ -14,5 +17,4 @@ author_profile: true
 * **PhD Students:** 
 
 * **Post-docs and Senior Researchers:** 
-
-* **What am I looking for in a new students/researchers?** 
+ 

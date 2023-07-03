@@ -62,7 +62,7 @@ To be updated, some may be missing... -->
   - Currently un-funded. Contact me to support this project! -->
 
 ### Past Research
-#### Past Funded Research in the USA (Partial List, incomplete, ask for more details if interested)
+<!-- #### Past Funded Research in the USA (Partial List, incomplete, ask for more details if interested) -->
 <!-- - (2019-2022) CHEETA: NASA ULI Center for Cryogenic High-Efficiency Electrical Technologies for Aircraft, website: [here](https://cheeta.illinois.edu/)
   - Funded by NASA University Leadership Initiative (ULI), see [here](https://nari.arc.nasa.gov/uliround2)
   - PI: [Prof. Phillip J. Ansell (UIUC)](https://aerospace.illinois.edu/directory/profile/ansell1)

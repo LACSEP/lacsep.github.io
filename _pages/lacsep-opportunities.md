@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Looking for LACSEP's current members?** Please follow this link to find about the members (past students, post-docs, researchers and visitors): *[LACSEP Members](/lacsep-members/)*
+<!-- **Looking for LACSEP's current members?** Please follow this link to find about the members (past students, post-docs, researchers and visitors): *[LACSEP Members](/lacsep-members/)* -->
 
 ## About Joining LACSEP
 
