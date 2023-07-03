@@ -26,7 +26,7 @@ redirect_from:
 - [Matheus Rosa Nascimento]()
 
 ### BSc Students
-- [Bruno]()
+- [Bruno Borges da Silva]()
 - [Giovanna Siqueira Mayese]()
 - [Lucas Carnevalli de Almeida]()
 - [Thiago de Freitas Nogueira]()

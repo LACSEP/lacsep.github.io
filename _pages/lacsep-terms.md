@@ -1,11 +1,10 @@
 ---
 permalink: /lacsep-terms/
 title: "LACSEP Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2023-07-03
 ---
 
 {% include base_path %}
-{% include toc %}
 
 ## Privacy Policy
 
