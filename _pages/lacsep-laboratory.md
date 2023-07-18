@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "LACSEP Facility"
-permalink: /lacsep-lab/
+permalink: /lacsep-laboratory/
 author_profile: true
 redirect_from:
   - /resume

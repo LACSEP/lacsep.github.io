@@ -4,8 +4,8 @@ title: "LACSEP Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /lacsep-about/
+  - /lacsep-about.html
 ---
 
 ## Website
