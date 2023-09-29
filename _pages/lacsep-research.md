@@ -10,17 +10,23 @@ redirect_from:
 
 ---
 ## Research Areas
+ ### Analysis and Control of the Dynamic Response of Microgrids and Active Distribution Networks
+ - Distributed Micro and Mini Generation Control for Safe Operation of Active Distribution Networks (IEEE Task Force – Trends in Microgrid Modeling for Stability Studies)
+ - Modeling of Microgrids and Active Distribution Networks for Stability Studies (IEEE Task Force – Trends in Microgrid Modeling for Stability Studies)
 
-<!-- I work in the several ``engineering domains'' including electrical power systems (power grid), electrified aircraft, and combined energy systems (e.g. heat and power networks, power-to-X).
+### Control Applications to Ensure the Stability and Dynamic Security of Large Systems
+- Application of Controls to Avoid Congestion of Transmission Lines and Curtailment of Large-scale Generation (R&D TotalEnergies)
+- Application of Preventive Controls to Avoid Emergency Situations - High Risk of Systemic Instability (R&D TotalEnergies)
 
-Where I am interested in applying:
-* Modeling and simulation using object-oriented equation-based formalisms via the Modelica language, for multi-domain system integration, for example to model power systems or the electrical propulsion system of aircrafts.
-* Real-time simulation, hardware-in-the-loop simulation, controller hardware-in-the-loop simulation, power-hardware-in-the-loop simulation for testing of methods, software tools or technologies for control and protection.
-* System Identification Methods for measurement-based identification of cyber-physical power system models, monitoring technics and control systems.
-* Measurement technologies and analytics (PMU Applications).
-* AI and machine learning for designing, operating and decision making in power systems.
+### Dynamic Safety Analysis of Large Power Systems
+- Dynamic Simulations for Identifying Instability Scenarios and Cascade Events (IEEE Task Force – Integrating Relay Models in RMS Dynamic Simulations)
+- Static Approaches for Evaluating Small Disturbance and Voltage Stability Margins (R&D TotalEnergies)
 
-and developing/supporting/using open source software and open access standards. -->
+### Parameter Estimation Applied to Load Models in Distribution Feeders
+- Coordination of Protective Equipment with Regional Load Relief Scheme – ERAC (IEEE Task Force – Integrating Relay Models in RMS Dynamic Simulations)
+- Definition of Load Models for Feeders with Distributed Generation (R&D ONS/INESC Brasil)
+- Parameter Estimation for the Defined Models Using Dynamic Simulation Approaches (R&D ONS/INESC Brasil)
+
 
 ---
 
