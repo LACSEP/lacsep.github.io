@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 ## Current Researchers and Students @ LACSEP
-###### (alphabetical order)
+###### (alphabetical order, information gathered from Prof. Rodrigo's [lattes](http://lattes.cnpq.br/2081545253471652))
 
 ### Post-Docs
 - Gustavo Gonçalves dos Santos, 2023: 
