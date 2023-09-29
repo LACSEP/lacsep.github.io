@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 ## Research Areas
- ### Analysis and Control of the Dynamic Response of Microgrids and Active Distribution Networks
+### Analysis and Control of the Dynamic Response of Microgrids and Active Distribution Networks
  - Distributed Micro and Mini Generation Control for Safe Operation of Active Distribution Networks (IEEE Task Force – Trends in Microgrid Modeling for Stability Studies)
  - Modeling of Microgrids and Active Distribution Networks for Stability Studies (IEEE Task Force – Trends in Microgrid Modeling for Stability Studies)
 
