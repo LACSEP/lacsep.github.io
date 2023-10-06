@@ -14,7 +14,7 @@ redirect_from:
 - Gustavo Gonçalves dos Santos, 2023: 
 
 ### PhD Students
-- [Amanda Thaís dos Reis Fernandes, 2022:](https://www.linkedin.com/in/amanda-trfernandes/): Estimação da Resposta Inercial da Frequência de Sistemas de Energia com Alta Penetração de Geração Eólica
+- [Amanda Thaís dos Reis Fernandes, 2022](https://www.linkedin.com/in/amanda-trfernandes/): Estimação da Resposta Inercial da Frequência de Sistemas de Energia com Alta Penetração de Geração Eólica
 - [Camila Souza Alves, 2021](https://www.linkedin.com/in/alvesscamila/): Determinação de Controles Preventivos para Garantia da Estabilidade de Tensão Considerando Incertezas Operativas
 - [Daniela Arantes Gomes Ferreira, 2020](https://www.linkedin.com/in/daniela-arantes-gomes-ferreira-278256137/): Identificação de Cenários Críticos e Determinação de Controles Preventivos e Corretivos para Garantia de Segurança de Tensão e a Pequenas Perturbações
 - [Gustavo Pessoa de Pontes, 2021](https://www.linkedin.com/in/gustavo-p-pontes/): Controle de Geração Renovável Conectada por Inversores para Fornecimento de Suporte de Potência Reativa a Microrredes
