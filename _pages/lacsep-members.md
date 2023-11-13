@@ -20,7 +20,7 @@ redirect_from:
 - [Gustavo Pessoa de Pontes, 2021](https://www.linkedin.com/in/gustavo-p-pontes/): Controle de Geração Renovável Conectada por Inversores para Fornecimento de Suporte de Potência Reativa a Microrredes
 - [João Pedro Peters Barbosa, 2023:](https://www.linkedin.com/in/joaoppeters/): Abordagem Estocástica para Melhoria da Margem de Segurança de Tensão Considerando Incertezas de Carga e Geração
 - [Maiara Camila Oliveira, 2019](https://www.linkedin.com/in/maiara-oliveira-1898b070): Método para Construção de Regiões de Segurança Considerando Incertezas Relacionadas com Fontes Alternativas de Energia
-- [Manuel Leonardo Sosa Ríos from USP, 2017](https://www.linkedin.com/in/manuel-sosa-ríos-47196649/): Análise de Interações Dinâmicas entre PSSs e Limitadores de Elos HVDC em Sistemas Elétricos de Grande Porte
+- [Manuel Leonardo Sosa Ríos, 2017 (co-orientation)](https://www.linkedin.com/in/manuel-sosa-ríos-47196649/): Análise de Interações Dinâmicas entre PSSs e Limitadores de Elos HVDC em Sistemas Elétricos de Grande Porte
 - Mariana Uzeda Cildoz, 2017: Avaliação Dinâmica do Suporte de Potência Reativa Fornecido por Geradores Eólicos a Sistemas Interligados de Grande Porte
 
 ### MSc Students
