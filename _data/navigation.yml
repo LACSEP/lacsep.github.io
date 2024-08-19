@@ -12,8 +12,8 @@ main:
   - title: "Members"
     url: /lacsep-members/
 
-  - title: "Opportunities"
-    url: /lacsep-opportunities/
+  # - title: "Opportunities"
+  #   url: /lacsep-opportunities/
   
   - title: "Contact"
     url: /lacsep-contact/
