@@ -1,5 +1,5 @@
 ---
-title: "SE"
+title: "sudeste"
 permalink: /sudeste/
 ---
 
