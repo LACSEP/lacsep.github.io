@@ -25,4 +25,4 @@ He is Member of the Institute of Electrical and Electronics Engineers (IEEE) sin
 
 Here's a picture of Prof. Rodrigo Andrade Ramos:
 
-![lacsep-rramos](https://lacsep.github.io/images/lacsep-rramos.jpeg "Rodrigo Andrade Ramos")
+![lacsep-rramos](https://lacsep.github.io/images/lacsep-rramos.png "Rodrigo Andrade Ramos")
