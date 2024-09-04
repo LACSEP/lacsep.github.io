@@ -1,6 +1,5 @@
 ---
-title: "sudeste"
-permalink: /sudeste/
+permalink: /lacsep-se/
 ---
 
-<iframe src=".shadow/sudeste.html" width="100%" height="600px"></iframe>
+<iframe src="../files/sudeste.html" width="100%" height="600px"></iframe>
