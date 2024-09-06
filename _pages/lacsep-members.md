@@ -26,7 +26,7 @@ redirect_from:
 - [Matheus Rosa Nascimento, 2023:](https://www.linkedin.com/in/matheus-rosa-4673341b9/) Avaliação Conjunta de Margens de Estabilidade a Pequenas Perturbações e de Tensão Considerando Incertezas
 
 ### BSc Students
-- Giovanna Siqueira Mayese, 2024: Desenvolvimento de um Procedimento para Priorização de Alocações de Medidores Utilizados na Validação de Modelos de Redes Ativas de Distribuição.
+- [Giovanna Siqueira Mayese, 2024](https://www.linkedin.com/in/giovanna-siqueira-mayese/): Desenvolvimento de um Procedimento para Priorização de Alocações de Medidores Utilizados na Validação de Modelos de Redes Ativas de Distribuição.
 
 ### Visitors
 - None
