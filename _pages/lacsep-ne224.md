@@ -11,7 +11,7 @@ permalink: /lacsep-ne224/
             }); 
             var link = document.createElement('a');
             link.href = '../images/lacsep-logo.png';
-            link.download = 'archive.zip';
+            link.download = 'lacsep-ne224.png';
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);">
