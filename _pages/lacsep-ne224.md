@@ -31,7 +31,7 @@ Your support and contributions are invaluable to the success of this project. He
 
 Every contribution, big or small, makes a difference. Thank you for your support!
 
-Send email with your submission to our email at [LACSEP Contact](https://lacsep.github.io/lacsep-members/). Please put "NE224 System" on your subject line. People sending submissions will be credited!
+Send email with your submission to our email at [LACSEP Contact](https://lacsep.github.io/lacsep-contact/). Please put "NE224 System" on your subject line. People sending submissions will be credited!
 
 ## Archive Contents
 
