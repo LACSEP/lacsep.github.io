@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "LACSEP NE224 System Dataset"
-permalink: /lacsep-research/
+permalink: /lacsep-ne224/
 author_profile: true
 redirect_from:
   - /resume
