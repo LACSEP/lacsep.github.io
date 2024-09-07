@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "LACSEP NE224 System Dataset"
+title: "NE224 System Dataset"
 permalink: /lacsep-ne224/
 author_profile: true
 redirect_from:
