@@ -10,15 +10,15 @@ redirect_from:
 
 ## Introduction
 
-This page showcases the results of a joint effort between [Roman Kuiava,](https://www.linkedin.com/in/roman-kuiava-16884914a/) [Rodrigo A. Ramos,](https://www.linkedin.com/in/rodrigo-ramos-23130436/) [Ahda P. G. Pavani,](https://www.linkedin.com/in/ahda-pavani-80784331/) [João Pedro P. Barbosa,](https://www.linkedin.com/in/joaoppeters/) [Matheus Rosa Nascimento,](https://www.linkedin.com/in/matheus-rosa-4673341b9/) [Kamile Fuchs](https://www.linkedin.com/in/kamilefuchs) and Tatiane Cristina C. Fernandes. Our collaboration has combined expertise and resources to produce comprehensive data on the proposed equivalent reduced power system. By pooling our knowledge and skills, we aim to advance research and provide valuable insights that benefit the broader community.
+This page highlights the putcomes of a collaborative effort between [Roman Kuiava,](https://www.linkedin.com/in/roman-kuiava-16884914a/) [Rodrigo A. Ramos,](https://www.linkedin.com/in/rodrigo-ramos-23130436/) [Ahda P. G. Pavani,](https://www.linkedin.com/in/ahda-pavani-80784331/) [João Pedro P. Barbosa,](https://www.linkedin.com/in/joaoppeters/) [Matheus Rosa Nascimento,](https://www.linkedin.com/in/matheus-rosa-4673341b9/) [Kamile Fuchs](https://www.linkedin.com/in/kamilefuchs) and Tatiane Cristina C. Fernandes. Our team has combined expertise and resources to produce comprehensive data on the proposed equivalent reduced power system. Through this collaboration, we aim to advance research and provide valuable insights that benefit the broader community.
 
-The dataset presented here serves as a key resource for researchers and professionals working in the field, and it is readily available for further analysis and exploration. By offering transparent access to the underlying data, we aim to promote a deeper understanding of the subject matter and encourage collaboration across the academic and professional communities.
+The dataset presented here serves as a key resource for researchers and professionals in the field, and it is readily available for further analysis and exploration. By offering transparent access to the underlying data, we aim to promote a deeper understanding of the subject matter and encourage collaboration across the academic and professional communities.
 
 ## Disclaimer and Content Policy
 
 This archive is operated voluntarily as a public service. No guarantees of any kind regarding the correctness, currency, functionality, usability or any other attribute of the archived material can be made. Use at your own risk.
 
-Material in the archive is intended for purposes of research and education, not for commercial gain. Material that is known to be copyrighted or proprietary will not be accepted without specific permission from the owner. Copyrighted or proprietary material that inadvertently appears in the archive will be removed as soon as its status is called to the attention of the archive maintainer.
+Material in the archive is intended solely for research and education purposes, not for commercial use. Any material that is known to be copyrighted or proprietary will not be accepted without specific permission from the owner. If copyrighted or proprietary content is inadvertently included, it will be removed as soon as its status is called to the attention of the archive maintainer.
 
 ## How You Can Help
 
@@ -31,7 +31,7 @@ Your support and contributions are invaluable to the success of this project. He
 
 Every contribution, big or small, makes a difference. Thank you for your support!
 
-Send email with your submission to our email at [LACSEP Contact](https://lacsep.github.io/lacsep-contact/). Please put "NE224 System" on your subject line. People sending submissions will be credited!
+Send an email with your submission to our email at [LACSEP Contact](https://lacsep.github.io/lacsep-contact/). Please put "NE224 System" in your subject line. People sending submissions will be credited!
 
 ## Archive Contents
 
