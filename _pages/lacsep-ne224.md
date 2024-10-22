@@ -35,7 +35,7 @@ Send an email with your submission to our email at [LACSEP Contact](https://lacs
 
 ## Archive Contents
 
-The data includes [brief description of the data type, e.g., historical records, simulation results, statistical analyses], which can be used to replicate the findings of this study or to conduct new investigations. This repository ensures that all relevant information is easily accessible, supporting the ongoing pursuit of knowledge and innovation in [specific field].
+The data includes reports, which can be used to replicate the findings of this study or to conduct new investigations. This repository ensures that all relevant information is easily accessible, supporting the ongoing pursuit of knowledge and innovation in dynamic systems.
 
 <!-- <a href="../images/lacsep-logo.png" 
    onclick="event.preventDefault(); 
