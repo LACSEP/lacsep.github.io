@@ -37,7 +37,7 @@ Send an email with your submission to our email at [LACSEP Contact](https://lacs
 
 The data includes [brief description of the data type, e.g., historical records, simulation results, statistical analyses], which can be used to replicate the findings of this study or to conduct new investigations. This repository ensures that all relevant information is easily accessible, supporting the ongoing pursuit of knowledge and innovation in [specific field].
 
-<a href="../images/lacsep-logo.png" 
+<!-- <a href="../images/lacsep-logo.png" 
    onclick="event.preventDefault(); 
             gtag('event', 'download', {
                 'event_category': 'file',
@@ -51,4 +51,14 @@ The data includes [brief description of the data type, e.g., historical records,
             link.click();
             document.body.removeChild(link);">
    Download Archive
+</a> -->
+
+<a href="https://drive.google.com/drive/folders/124dTWGFjPbuy_-XdQ4eJFgjOtBxxBbqE?usp=sharing" 
+   onclick="event.preventDefault(); 
+            gtag('event', 'click', {
+                'event_category': 'navigation',
+                'event_label': 'GoogleDriveFolder',
+                'value': 1
+            }); 
+            window.location.href = 'https://drive.google.com/drive/folders/124dTWGFjPbuy_-XdQ4eJFgjOtBxxBbqE?usp=sharing';">
 </a>
