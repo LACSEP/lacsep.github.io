@@ -53,12 +53,14 @@ The data includes reports, which can be used to replicate the findings of this s
    Download Archive
 </a> -->
 
-<a href="https://drive.google.com/drive/folders/124dTWGFjPbuy_-XdQ4eJFgjOtBxxBbqE?usp=sharing" 
+<a href="https://drive.google.com/drive/folders/124dTWGFjPbuy_-XdQ4eJFgjOtBxxBbqE?usp=sharing"
    onclick="event.preventDefault(); 
-            gtag('event', 'click', {
-                'event_category': 'navigation',
-                'event_label': 'GoogleDriveFolder',
+            gtag('event', 'redirect', {
+                'event_category': 'link',
+                'event_label': 'Google Drive Folder',
                 'value': 1
             }); 
             window.location.href = 'https://drive.google.com/drive/folders/124dTWGFjPbuy_-XdQ4eJFgjOtBxxBbqE?usp=sharing';">
+   Repository Folder
 </a>
+
