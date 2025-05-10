@@ -11,19 +11,18 @@ redirect_from:
 ###### (alphabetical order, information gathered from Prof. Rodrigo's [lattes](http://lattes.cnpq.br/2081545253471652))
 
 ### Post-Docs
-- [Gustavo Gonçalves dos Santos, 2023](https://www.linkedin.com/in/gustavo-santos-0666576b/): Cálculo da Margem de Estabilidade de Tensão Considerando Incertezas na Carga e Limite dos Geradores 
+- None
 
 ### PhD Students
 - [Amanda Thaís dos Reis Fernandes, 2022](https://www.linkedin.com/in/amanda-trfernandes/): Estimação da Resposta Inercial da Frequência de Sistemas de Energia com Alta Penetração de Geração Eólica
 - [Camila Souza Alves, 2021](https://www.linkedin.com/in/alvesscamila/): Determinação de Controles Preventivos para Garantia da Estabilidade de Tensão Considerando Incertezas Operativas
 - [Daniela Arantes Gomes Ferreira, 2020](https://www.linkedin.com/in/daniela-arantes-gomes-ferreira-278256137/): Identificação de Cenários Críticos e Determinação de Controles Preventivos e Corretivos para Garantia de Segurança de Tensão e a Pequenas Perturbações
-- [Gustavo Pessoa de Pontes, 2021](https://www.linkedin.com/in/gustavo-p-pontes/): Controle de Geração Renovável Conectada por Inversores para Fornecimento de Suporte de Potência Reativa a Microrredes
-- [João Pedro Peters Barbosa, 2023:](https://www.linkedin.com/in/joaoppeters/): Abordagem Estocástica para Melhoria da Margem de Segurança de Tensão Considerando Incertezas de Carga e Geração
-- [Maiara Camila Oliveira, 2019](https://www.linkedin.com/in/maiara-oliveira-1898b070): Método para Construção de Regiões de Segurança Considerando Incertezas Relacionadas com Fontes Alternativas de Energia
+- [João Pedro Peters Barbosa, 2023](https://www.linkedin.com/in/joaoppeters/): Abordagem Estocástica para Melhoria da Margem de Segurança de Tensão Considerando Incertezas de Carga e Geração
 
 ### MSc Students
 - Jennifer Solórzano Fernández, 2022: Avaliação da Margem de Segurança de Tensão Considerando Diferentes Estratégias de Redespacho de Geração
-- [Matheus Rosa Nascimento, 2023:](https://www.linkedin.com/in/matheus-rosa-4673341b9/) Avaliação Conjunta de Margens de Estabilidade a Pequenas Perturbações e de Tensão Considerando Incertezas
+- [Matheus Rosa Nascimento, 2023](https://www.linkedin.com/in/matheus-rosa-4673341b9/): Avaliação Conjunta de Margens de Estabilidade a Pequenas Perturbações e de Tensão Considerando Incertezas
+- Luis Otávio de Angeles Dias, 2024: Abordagem Estocástica para Melhoria da Margem de Segurança de Tensão Considerando Incertezas de Carga e Geração
 
 ### BSc Students
 - [Giovanna Siqueira Mayese, 2024](https://www.linkedin.com/in/giovanna-siqueira-mayese/): Desenvolvimento de um Procedimento para Priorização de Alocações de Medidores Utilizados na Validação de Modelos de Redes Ativas de Distribuição.
@@ -61,10 +60,13 @@ redirect_from:
 ### Senior Researchers
 
 ### Post-Docs
+- Gustavo Gonçalves dos Santos, 2023
 - Victor Raul Neumann Silva, 2022
 - Roman Kuiava, 2011
 
 ### PhD Students
+- Maiara Camila Oliveira, 2025: Avaliação Probabilística da Margem de Segurança de Tensão Considerando Incertezas de Fontes Intermitentes de Geração.
+- Gustavo Pessoa de Pontes, 2025: Controle de Geração Renovável Conectada por Inversores para Fornecimento de Suporte de Potência Reativa a Microrredes
 - Manuel Leonardo Sosa Ríos, 2024 (co-orientation): Ciclos Limites Causados por Interações entre Controladores Não Lineares de Elos HVDC e de Geradores Síncronos.
 - Mariana Uzeda Cildoz, 2023: Procedimento para Avaliação em Tempo Real da Estabilidade de Tensão de Médio e Longo Prazo.
 - Jessica Marques Binotto, 2022: Estratégia de Operação de Geradores Eólicos Distribuídos para Mitigar Problemas Sistêmicos de Estabilidade de Tensão.
