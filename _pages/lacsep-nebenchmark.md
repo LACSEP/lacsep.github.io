@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "NE Benchmark System Dataset"
-permalink: /lacsep-ne/
+permalink: /lacsep-nebenchmark/
 author_profile: true
 redirect_from:
   - /resume
@@ -31,7 +31,7 @@ Your support and contributions are invaluable to the success of this project. He
 
 Every contribution, big or small, makes a difference. Thank you for your support!
 
-Send an email with your submission to our email at [LACSEP Contact](https://lacsep.github.io/lacsep-contact/). Please put "NE224 System" in your subject line. People sending submissions will be credited!
+Send an email with your submission to our email at [LACSEP Contact](https://lacsep.github.io/lacsep-contact/). Please put "NE Benchmark System" in your subject line. People sending submissions will be credited!
 
 ## Archive Contents
 
