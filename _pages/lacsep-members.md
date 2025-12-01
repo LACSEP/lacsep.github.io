@@ -14,13 +14,13 @@ redirect_from:
 - None
 
 ### PhD Students
-- [Amanda Thaís dos Reis Fernandes, 2022](https://www.linkedin.com/in/amanda-trfernandes/): Estimação da Resposta Inercial da Frequência de Sistemas de Energia com Alta Penetração de Geração Eólica
+<!-- - [Daniela Arantes Gomes Ferreira, 2020](https://www.linkedin.com/in/daniela-arantes-gomes-ferreira-278256137/): Identificação de Cenários Críticos e Determinação de Controles Preventivos e Corretivos para Garantia de Segurança de Tensão e a Pequenas Perturbações -->
 - [Camila Souza Alves, 2021](https://www.linkedin.com/in/alvesscamila/): Determinação de Controles Preventivos para Garantia da Estabilidade de Tensão Considerando Incertezas Operativas
-- [Daniela Arantes Gomes Ferreira, 2020](https://www.linkedin.com/in/daniela-arantes-gomes-ferreira-278256137/): Identificação de Cenários Críticos e Determinação de Controles Preventivos e Corretivos para Garantia de Segurança de Tensão e a Pequenas Perturbações
+- [Amanda Thaís dos Reis Fernandes, 2022](https://www.linkedin.com/in/amanda-trfernandes/): Estimação da Resposta Inercial da Frequência de Sistemas de Energia com Alta Penetração de Geração Eólica
 - [João Pedro Peters Barbosa, 2023](https://www.linkedin.com/in/joaoppeters/): Abordagem Estocástica para Melhoria da Margem de Segurança de Tensão Considerando Incertezas de Carga e Geração
 
 ### MSc Students
-- Jennifer Solórzano Fernández, 2022: Avaliação da Margem de Segurança de Tensão Considerando Diferentes Estratégias de Redespacho de Geração
+<!-- - Jennifer Solórzano Fernández, 2022: Avaliação da Margem de Segurança de Tensão Considerando Diferentes Estratégias de Redespacho de Geração -->
 - [Matheus Rosa Nascimento, 2023](https://www.linkedin.com/in/matheus-rosa-4673341b9/): Avaliação Conjunta de Margens de Estabilidade a Pequenas Perturbações e de Tensão Considerando Incertezas
 - [Luis Otávio de Angeles Dias, 2024](https://www.linkedin.com/in/luis-otavio-de-angeles-dias-6915512a1/): Abordagem Estocástica para Melhoria da Margem de Segurança de Tensão Considerando Incertezas de Carga e Geração
 - [João Pedro Lima Dantas, 2025](https://www.linkedin.com/in/jo%C3%A3o-pedro-lima-dantas-49565b256/)
