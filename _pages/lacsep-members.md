@@ -22,10 +22,16 @@ redirect_from:
 ### MSc Students
 - Jennifer Solórzano Fernández, 2022: Avaliação da Margem de Segurança de Tensão Considerando Diferentes Estratégias de Redespacho de Geração
 - [Matheus Rosa Nascimento, 2023](https://www.linkedin.com/in/matheus-rosa-4673341b9/): Avaliação Conjunta de Margens de Estabilidade a Pequenas Perturbações e de Tensão Considerando Incertezas
-- Luis Otávio de Angeles Dias, 2024: Abordagem Estocástica para Melhoria da Margem de Segurança de Tensão Considerando Incertezas de Carga e Geração
+- [Luis Otávio de Angeles Dias, 2024](https://www.linkedin.com/in/luis-otavio-de-angeles-dias-6915512a1/): Abordagem Estocástica para Melhoria da Margem de Segurança de Tensão Considerando Incertezas de Carga e Geração
+- [João Pedro Lima Dantas, 2025](https://www.linkedin.com/in/jo%C3%A3o-pedro-lima-dantas-49565b256/)
+- [Ana Paula Lino Lepri, 2026](https://www.linkedin.com/in/ana-paula-lino-lepri-10533b16b/)
+
 
 ### BSc Students
 - [Giovanna Siqueira Mayese, 2024](https://www.linkedin.com/in/giovanna-siqueira-mayese/): Desenvolvimento de um Procedimento para Priorização de Alocações de Medidores Utilizados na Validação de Modelos de Redes Ativas de Distribuição.
+- [Felipe Grabalos, 2024](https://www.linkedin.com/in/felipe-grabalos-537a441b1/): Estudo e aplicação sobre modelagem de baterias, e estudo sobre equivalentes de sistemas elétricos de grande porte
+- [Eleonora Vasconcelos, 2025](https://www.linkedin.com/in/eleonora-vasconcelos-7348442b0/): Estudo e aplicação sobre modelagem de inversores
+- [Matheus Antonio Vivas Rocha, 2025](https://www.linkedin.com/in/matheusvivasr/): Estudo e aplicação sobre técnicas de clusterização em análise de estabilidade de tensão em sistemas elétricos de potência
 
 ### Visitors
 - None
